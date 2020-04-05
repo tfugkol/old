@@ -15,11 +15,11 @@ There were a number of interesting announcements made on TensorFlow Lite during 
 
 Khanh is a Developer Advocate at Google on the TensorFlow Lite team. You can know more about Khanh from [here](https://www.linkedin.com/in/lvgk/).
 
-## Session abstract and prerequisites
+### Session abstract and prerequisites
 
 TensorFlow Lite is the official framework for running TensorFlow model inference on edge devices such as smartphones. Edge devices have become more powerful each year, and they enable an increasing number of on-device machine learning use cases. In this session, we will explore how TensorFlow Lite is pushing the limits of on-device machine learning by enabling SoTA models and faster runtime. We will also see how mobile developers without ML expertise can get leverage TensorFlow Lite through a Model Maker, a tool to create SoTA ML models with transfer learning.
 
-## Session details
+### Session details
 
 - Where: YouTube Live ([link](https://www.youtube.com/watch?v=shqlDPJxBe0))
 - When: **April 11 2020, 12:00 PM IST**
