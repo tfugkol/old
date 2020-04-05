@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What new in TFLite from DevSummit 2020"
+title:  "What's new in TFLite from DevSummit 2020"
 date:   2020-04-05 13:00:00
 categories: Announcements
 highlight: true
