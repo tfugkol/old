@@ -19,7 +19,12 @@ Khanh is a Developer Advocate at Google on the TensorFlow Lite team. You can kno
 
 TensorFlow Lite is the official framework for running TensorFlow model inference on edge devices such as smartphones. Edge devices have become more powerful each year, and they enable an increasing number of on-device machine learning use cases. In this session, we will explore how TensorFlow Lite is pushing the limits of on-device machine learning by enabling SoTA models and faster runtime. We will also see how mobile developers without ML expertise can get leverage TensorFlow Lite through a Model Maker, a tool to create SoTA ML models with transfer learning.
 
-### Session details
+The recording is available here:
 
-- Where: YouTube Live ([link](https://www.youtube.com/watch?v=shqlDPJxBe0))
-- When: **April 11 2020, 12:00 PM IST**
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<iframe src='https://youtu.be/shqlDPJxBe0' frameborder='0' allowfullscreen></iframe>
+
+### Important links
+- [Easy on-device ML from prototype to production (TF Dev Summit '20)](https://www.youtube.com/watch?v=ALxWJoh_BHw)
+- [TensorFlow Lite: ML for mobile and IoT devices (TF Dev Summit '20)](https://www.youtube.com/watch?v=27Zx-4GOQA8)
+- [Awesome TensorFlow Lite](https://github.com/margaretmz/awesome-tflite)
