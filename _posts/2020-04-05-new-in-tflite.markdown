@@ -26,6 +26,7 @@ The recording is available here:
 
 ### Important links
 - [TensorFlow Lite Developer Survey](http://bit.ly/tfl-survey)
+- [How TensorFlow Lite helps you from prototype to product](https://blog.tensorflow.org/2020/04/how-tensorflow-lite-helps-you-from-prototype-to-product.html)
 - [Easy on-device ML from prototype to production (TF Dev Summit '20)](https://www.youtube.com/watch?v=ALxWJoh_BHw)
 - [TensorFlow Lite: ML for mobile and IoT devices (TF Dev Summit '20)](https://www.youtube.com/watch?v=27Zx-4GOQA8)
 - [Awesome TensorFlow Lite](https://github.com/margaretmz/awesome-tflite)
