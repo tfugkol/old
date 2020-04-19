@@ -3,7 +3,7 @@ layout: post
 title:  "Announcing TweetsOnTF contest"
 date:   2020-03-25 13:00:00
 categories: Announcements
-highlight: true
+highlight: false
 author: Sayak Paul
 image: /assets/img/post_images/TweetsOnTF.png
 displayimage: true
