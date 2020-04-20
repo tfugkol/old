@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Announcing TweetsOnTF winners!"
-date:   2020-04-19 17:00:00
+date:   2020-04-20 12:00:00
 categories: Announcements
 highlight: true
 author: Ritwik Raha
 image: /assets/img/post_images/TweetsOnTF.png
-displayimage: false
+displayimage: true
 ---
 Keeping up with the spirit of increasing productivity in these trying times TFUG Kolkata had organized [TweetsOnTF](/tweets-on-tf) a fun twitter contest from 27th March onwards.
 
@@ -22,7 +22,7 @@ As mentioned in the previous post  announcing the contest, the criteria for judg
 - Effective communication of ideas.
 - Conformation to the rules of the contest.
 - The relevance of the topic chosen to the community.
-- No room for plagiarism.
+- **No room for plagiarism**.
 
 Some participants failed to meet these criteria and were sadly eliminated from the contest. While the purpose of the contest was to promote learning and sharing knowledge it was also meant for open sharing of ideas. We heartily thank each and every member who took part in this contest and encourage them to not pause this streak of knowledge-sharing and community building.
 
@@ -34,6 +34,6 @@ Some participants failed to meet these criteria and were sadly eliminated from t
 We wholeheartedly thank all the participants for taking the time out to participate in the contest and we hope your learning continues to grow.
 
 #### Rewards:
-As promised, the winners mentioned above will keep get digital goodies that will be emailed to them.
+As promised, the winners mentioned above will be getting digital goodies that will be emailed to them. We partnered with [**Manning Publications**](https://www.manning.com/) for getting the winners the rewards. Manning generously sent us three best-selling e-books in the field of Machine Learning. 
 
-Stay safe and eep learning.
+Stay safe and keep learning.
