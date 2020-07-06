@@ -15,7 +15,7 @@ Being specialized in domains like computer vision and natural language  processi
 
 If you want to embark on the journey of learning NLP, we conducted a session on 5th July, 2020 just for you. In this session, **Dipanjan Sarkar** talked about various "**Practical Natural Language Processing**" aspects. 
 
-Dipanjan (DJ) Sarkar is a Data Science Lead at Applied Materials,  leading advanced analytics efforts around computer vision, natural  language processing and deep learning. He is also a [Google Developer Expert](https://developers.google.com/community/experts) in Machine Learning. You can learn more about DJ [here]([https://www.linkedin.com/in/dipanzan](https://www.linkedin.com/in/dipanzan.)).
+Dipanjan (DJ) Sarkar is a Data Science Lead at Applied Materials,  leading advanced analytics efforts around computer vision, natural  language processing and deep learning. He is also a [Google Developer Expert](https://developers.google.com/community/experts) in Machine Learning. You can learn more about DJ [here](https://www.linkedin.com/in/dipanzan).
 
 ### Session Overview
 
