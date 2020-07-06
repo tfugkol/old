@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practical Natural Language Processing"
-date:   2020-04-05 13:00:00
+date:   2020-07-06 22:00:00
 categories: Announcements
 highlight: true
 author: Ayush Thakur
