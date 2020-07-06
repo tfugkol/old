@@ -1,33 +1,43 @@
 ---
 layout: post
-title:  "What's new in TFLite from DevSummit 2020"
+title:  "Practical Natural Language Processing"
 date:   2020-04-05 13:00:00
 categories: Announcements
 highlight: true
-author: Sayak Paul
-image: /assets/img/post_images/khanh.png
+author: Ayush Thakur
+image: /assets/img/post_images/practical_nlp.jpeg
 displayimage: false
 ---
 
-[**TensorFlow Lite (TFLite)**](https://www.tensorflow.org/lite) allows us to deploy light-weight state-of-the-art (SoTA) machine learning models to mobile and embedded devices. It reduces the memory footprints of the heavier deep learning models and thereby enhances the latency in producing predictions. This makes TensorFlow Lite a very ideal candidate for mobile and embedded-based machine learning applications which tend to operate in resource-constrained environments.
 
-There were a number of interesting announcements made on TensorFlow Lite during [TensorFlow Dev Summit 2020](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzuJw20FG82Lgm2SZjTdIXU). In this session, **Khanh LeViet** will take us through “**What's new in TensorFlow Lite from DevSummit 2020**”. Towards the end of the session, there will be a mini QA round so that you can bring your TFLite questions to Khanh.
 
-Khanh is a Developer Advocate at Google on the TensorFlow Lite team. You can know more about Khanh from [here](https://www.linkedin.com/in/lvgk/).
+Being specialized in domains like computer vision and natural language  processing is no longer a luxury but a necessity that is expected of any data scientist in today’s fast-paced world! Natural Language Processing is a subfield of "Artificial Intelligence"  that gives machine the ability to understand natural languages like speech and text. With huge linguistic datasets and faster compute a lot of rapid advances are taking place. If you are overwhelmed with the fast-paced development in NLP, we got you covered. 
 
-### Session abstract and prerequisites
+If you want to embark on the journey of learning NLP, we conducted a session on 5th July, 2020 just for you. In this session, **Dipanjan Sarkar** talked about various "**Practical Natural Language Processing**" aspects. 
 
-TensorFlow Lite is the official framework for running TensorFlow model inference on edge devices such as smartphones. Edge devices have become more powerful each year, and they enable an increasing number of on-device machine learning use cases. In this session, we will explore how TensorFlow Lite is pushing the limits of on-device machine learning by enabling SoTA models and faster runtime. We will also see how mobile developers without ML expertise can get leverage TensorFlow Lite through a Model Maker, a tool to create SoTA ML models with transfer learning.
+Dipanjan (DJ) Sarkar is a Data Science Lead at Applied Materials,  leading advanced analytics efforts around computer vision, natural  language processing and deep learning. He is also a [Google Developer Expert](https://developers.google.com/community/experts) in Machine Learning. You can learn more about DJ [here]([https://www.linkedin.com/in/dipanzan](https://www.linkedin.com/in/dipanzan.)).
+
+### Session Overview
+
+The session started with a quick introduction to NLP covering the why and the what of NLP. This covered the motivation behind NLP and the key concepts in order to learn NLP. He then covered some of the popular use cases of NLP and showcased an industry accepted NLP workflow which can be applied to any subfield of AI. Finally he went through some of his "essential" Jupyter notebooks and gave a run down of few NLP applications. Here's the quick outline of the session:
+
+- Introduction
+- What is Natural Language
+- What is NLP?
+- Why NLP?
+- NLP Applications
+- Standard NLP Workflow
+- Hands-on Examples with Code
+- Text Classification
+- Content Recommenders (Text Similarity)
+- Industry Case Studies
 
 The recording is available here:
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/shqlDPJxBe0' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/rDosBdOMoXU' frameborder='0' allowfullscreen></iframe></div>
 
 
-### Important links
-- [TensorFlow Lite Developer Survey](http://bit.ly/tfl-survey)
-- [How TensorFlow Lite helps you from prototype to product](https://blog.tensorflow.org/2020/04/how-tensorflow-lite-helps-you-from-prototype-to-product.html)
-- [Easy on-device ML from prototype to production (TF Dev Summit '20)](https://www.youtube.com/watch?v=ALxWJoh_BHw)
-- [TensorFlow Lite: ML for mobile and IoT devices (TF Dev Summit '20)](https://www.youtube.com/watch?v=27Zx-4GOQA8)
-- [Awesome TensorFlow Lite](https://github.com/margaretmz/awesome-tflite)
-- Khanh's Twitter handle ([@khanhlvg](https://twitter.com/khanhlvg))
+### Start your NLP journey
+- [NLP Essentials by Dipanjan Sarkar](https://github.com/dipanjanS/nlp_essentials) - Contain "essential" notebooks for NLP
+- [NLP Zero to Hero](https://www.youtube.com/watch?v=fNxaJsNG3-s) - YouTube playlist of important NLP concepts by Laurence Moroney. 
+- [Text Classification with Movie Reviews](https://www.tensorflow.org/hub/tutorials/tf2_text_classification) - TensorFlow tutorial
