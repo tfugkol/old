@@ -10,6 +10,8 @@ github_username:  tfugkol
 facebook_username: TFUGKol
 permalink: /:title/
 
+timezone: Asia/Kolkata
+
 # Layout settings
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
